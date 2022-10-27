@@ -4,11 +4,11 @@
 * [1.2.InstallingGradle](7.5.1/快速开始/InstallingGradle.md)
 * [1.3.Samples](7.5.1/快速开始/Samples.md)
 * ***1.4.MigratingToGradle***
-  * [fromMaven](7.5.1/快速开始/MigratingToGradle/fromMaven.md)
-  * [fromAnt](7.5.1/快速开始/MigratingToGradle/fromAnt.md)
+  * [1.4.1.fromMaven](7.5.1/快速开始/MigratingToGradle/fromMaven.md)
+  * [1.4.2.fromAnt](7.5.1/快速开始/MigratingToGradle/fromAnt.md)
 * ***1.5.GradleDSLsAndAPI***
 * [1.5.1.Javadoc](7.5.1/快速开始/MigratingToGradle/fromMaven.md)
-* [1.5.2.GroovyDSLPrimer](7.5.1/快速开始/MigratingToGradle/fromAnt.md)
+* [1.5.2.Groovy构建脚本入门](7.5.1/快速开始/1.5.2.GroovyDSLPrimer/1.5.2.Groovy构建脚本入门.md)
 * [1.5.3.GroovyDSLReference](7.5.1/快速开始/MigratingToGradle/fromAnt.md)
 * [1.5.4.KotlinDSLPrimer](7.5.1/快速开始/MigratingToGradle/fromAnt.md)
 * [1.5.5.KotlinDSLAPI](7.5.1/快速开始/MigratingToGradle/fromAnt.md)
