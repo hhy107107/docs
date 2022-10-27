@@ -4,7 +4,7 @@
 * [InstallingGradle](7.5.1/快速开始/InstallingGradle.md)
 * [Samples](7.5.1/快速开始/Samples.md)
 * ***MigratingToGradle***
-* [fromMaven](7.5.1/快速开始/MigratingToGradle/fromMaven.md)
-* [fromAnt](7.5.1/快速开始/MigratingToGradle/fromAnt.md)
+  * [fromMaven](7.5.1/快速开始/MigratingToGradle/fromMaven.md)
+  * [fromAnt](7.5.1/快速开始/MigratingToGradle/fromAnt.md)
 * **执行gradle构建**
 * [Github+docsify零成本轻松打造在线文档网站](zh-cn/技术博客/Github+docsify零成本轻松打造在线文档.md)
