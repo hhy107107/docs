@@ -9,7 +9,7 @@
 * ***1.5.GradleDSLsAndAPI***
   * [1.5.1.Javadoc](7.5.1/快速开始/MigratingToGradle/fromMaven.md)
   * [1.5.2.Groovy构建脚本入门](7.5.1/快速开始/1.5.GradleDSLsAndAPI/1.5.2.Groovy构建脚本入门.md)
-  * [1.5.3.GroovyDSLReference](7.5.1/快速开始/MigratingToGradle/fromAnt.md)
+  * [1.5.3.GroovyDSLReference](7.5.1/快速开始/1.5.GradleDSLsAndAPI/1.5.3.GroovyDSL参考.md)
   * [1.5.4.KotlinDSLPrimer](7.5.1/快速开始/MigratingToGradle/fromAnt.md)
   * [1.5.5.KotlinDSLAPI](7.5.1/快速开始/MigratingToGradle/fromAnt.md)
   * [1.5.6.GroovyToKotlinDSLMigration](7.5.1/快速开始/MigratingToGradle/fromAnt.md)
