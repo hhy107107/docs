@@ -13,4 +13,4 @@
   * [1.5.4.KotlinDSLPrimer](7.5.1/快速开始/MigratingToGradle/fromAnt.md)
   * [1.5.5.KotlinDSLAPI](7.5.1/快速开始/MigratingToGradle/fromAnt.md)
   * [1.5.6.GroovyToKotlinDSLMigration](7.5.1/快速开始/MigratingToGradle/fromAnt.md)
-* [1.6.TrobleshootingBuilds](7.5.1/快速开始/1.6.构建故障排除.md)
+  * [1.6.构建故障排除](7.5.1/快速开始/1.6.构建故障排除.md)
