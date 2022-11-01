@@ -1,5 +1,5 @@
 * [项目介绍](7.5.1/项目介绍.md)
-* **1.快速开始**
+* **3.快速开始**
 * [3.1.GettingStarted](7.5.1/3.快速开始/GettingStarted.md)
 * [3.2.InstallingGradle](7.5.1/3.快速开始/InstallingGradle.md)
 * [3.3.Samples](7.5.1/3.快速开始/Samples.md)
@@ -14,3 +14,5 @@
   * [3.5.5.KotlinDSLAPI](7.5.1/3.快速开始/3.5.MigratingToGradle/fromAnt.md)
   * [3.5.6.GroovyToKotlinDSLMigration](7.5.1/3.快速开始/MigratingToGradle/fromAnt.md)
   * [3.6.构建故障排除](7.5.1/3.快速开始/3.6.构建故障排除.md)
+* **8.优化构建时间**
+* [8.1.提高gradle构建性能](7.5.1/8.优化构建时间/8.1.提高gradle构建性能.md)
