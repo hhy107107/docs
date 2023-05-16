@@ -1,18 +1,10 @@
-* [项目介绍](7.5.1/项目介绍.md)
-* **3.快速开始**
-* [3.1.GettingStarted](7.5.1/3.快速开始/GettingStarted.md)
-* [3.2.InstallingGradle](7.5.1/3.快速开始/InstallingGradle.md)
-* [3.3.Samples](7.5.1/3.快速开始/Samples.md)
-* ***1.4.MigratingToGradle***
-  * [3.4.1.fromMaven](7.5.1/3.快速开始/MigratingToGradle/fromMaven.md)
-  * [3.4.2.fromAnt](7.5.1/3.快速开始/MigratingToGradle/fromAnt.md)
-* ***1.5.GradleDSLsAndAPI***
-  * [3.5.1.Javadoc](7.5.1/3.快速开始/3.5.GradleDSLsAndAPI/fromMaven.md)
-  * [3.5.2.Groovy构建脚本入门](7.5.1/3.快速开始/3.5.GradleDSLsAndAPI/3.5.2.Groovy构建脚本入门.md)
-  * [3.5.3.GroovyDSLReference](7.5.1/3.快速开始/3.5.GradleDSLsAndAPI/3.5.3.GroovyDSL参考.md)
-  * [3.5.4.KotlinDSLPrimer](7.5.1/3.快速开始/3.5.MigratingToGradle/fromAnt.md)
-  * [3.5.5.KotlinDSLAPI](7.5.1/3.快速开始/3.5.MigratingToGradle/fromAnt.md)
-  * [3.5.6.GroovyToKotlinDSLMigration](7.5.1/3.快速开始/MigratingToGradle/fromAnt.md)
-  * [3.6.构建故障排除](7.5.1/3.快速开始/3.6.构建故障排除.md)
-* **8.优化构建时间**
-* [8.1.提高gradle构建性能](7.5.1/8.优化构建时间/8.1.提高gradle构建性能.md)
+* [项目介绍](系统架构师/项目介绍.md)
+* **1.基础**
+* ***1.1.操作系统***
+* [1.1.1.考纲](系统架构师/1.基础/1.1.操作系统/1.1.1.考纲.md)
+* [1.1.2.重点笔记](系统架构师/1.基础/1.1.操作系统/1.1.2.重点笔记.md)
+* [1.1.3.真题分析](系统架构师/1.基础/1.1.操作系统/1.1.3.真题分析.md)
+* ***1.2.数据库系统***
+* [1.2.1.考纲](系统架构师/1.基础/1.2.数据库系统/1.2.1.考纲.md)
+* [1.2.2.重点笔记](系统架构师/1.基础/1.2.数据库系统/1.2.2.重点笔记.md)
+* [1.2.3.真题分析](系统架构师/1.基础/1.2.数据库系统/1.2.3.真题分析.md)
